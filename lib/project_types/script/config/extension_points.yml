@@ -18,31 +18,13 @@ shipping_methods:
       repo: "https://github.com/Shopify/scripts-apis-examples"
     wasm:
       repo: "https://github.com/Shopify/scripts-apis-examples"
-merchandise_discount_types:
-  beta: true
-  domain: 'discounts'
-  libraries:
-    typescript:
-      beta: true
-      package: "@shopify/scripts-discounts-apis"
-      repo: "https://github.com/Shopify/scripts-apis-examples"
-    wasm:
-      repo: "https://github.com/Shopify/scripts-apis-examples"
-delivery_discount_types:
-  beta: true
-  domain: 'discounts'
-  libraries:
-    typescript:
-      beta: true
-      package: "@shopify/scripts-discounts-apis"
-      repo: "https://github.com/Shopify/scripts-apis-examples"
-    wasm:
-      repo: "https://github.com/Shopify/scripts-apis-examples"
 product_discount_type:
   beta: true
   domain: 'discounts'
   libraries:
     wasm:
+      repo: "https://github.com/Shopify/scripts-apis-examples"
+    rust:
       repo: "https://github.com/Shopify/scripts-apis-examples"
 order_discount_type:
   beta: true
@@ -50,9 +32,13 @@ order_discount_type:
   libraries:
     wasm:
       repo: "https://github.com/Shopify/scripts-apis-examples"
+    rust:
+      repo: "https://github.com/Shopify/scripts-apis-examples"
 shipping_discount_type:
   beta: true
   domain: 'discounts'
   libraries:
     wasm:
+      repo: "https://github.com/Shopify/scripts-apis-examples"
+    rust:
       repo: "https://github.com/Shopify/scripts-apis-examples"
